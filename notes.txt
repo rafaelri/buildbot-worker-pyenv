@@ -1,1 +1,2 @@
 https://github.com/moby/moby/issues/7281
+run bash (not directly from docker run -it)
